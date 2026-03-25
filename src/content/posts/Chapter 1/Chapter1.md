@@ -1,6 +1,6 @@
 ---
 title: "Chapter 1: Phantom Equity"
-published: 2024-04-01
+published: 2026-02-21
 description: "The Scrapyard Encounter and Recalled Assets."
 image: "./Chapter 1.png"
 tags: ["Story", "Cyberpunk", "Novel"]

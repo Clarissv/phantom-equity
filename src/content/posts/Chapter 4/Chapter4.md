@@ -1,6 +1,6 @@
 ---
 title: "Chapter 4: Total Liquidation"
-published: 2024-04-01
+published: 2026-02-23
 description: "The Sovereign Breach and The System Purge."
 image: "./PE6.png"
 tags: ["Story", "Cyberpunk", "Novel"]

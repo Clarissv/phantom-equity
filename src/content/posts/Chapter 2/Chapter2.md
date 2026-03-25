@@ -1,6 +1,6 @@
 ---
 title: "Chapter 2: Flatline City"
-published: 2024-04-01
+published: 2026-02-22
 description: "The Predator’s Sanctuary and Kadipiro Block."
 image: "./Chapter 2.png"
 tags: ["Story", "Cyberpunk", "Novel"]

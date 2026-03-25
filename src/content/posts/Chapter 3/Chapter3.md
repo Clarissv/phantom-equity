@@ -1,6 +1,6 @@
 ---
 title: "Chapter 3: Recalled Assets"
-published: 2024-04-01
+published: 2026-02-23
 description: "The Ivory Infiltration and System Overload."
 image: "./PE1.png"
 tags: ["Story", "Cyberpunk", "Novel"]
