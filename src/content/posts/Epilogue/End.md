@@ -1,6 +1,6 @@
 ---
 title: "Epilogue: The Debt-Free Dawn"
-published: 2026-02-24
+published: 2026-02-25
 description: "The conclusion of Phantom Equity."
 image: "./PE4.png"
 tags: ["Story", "Cyberpunk", "Novel"]
