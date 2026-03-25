@@ -1,6 +1,6 @@
 ---
 title: "Prologue: The Zero-Hour Protocol"
-published: 2024-04-01
+published: 2026-02-20
 description: "The beginning of the Phantom Equity story."
 image: "./PE8.png"
 tags: ["Story", "Cyberpunk", "Novel"]
@@ -8,7 +8,7 @@ category: Novel
 draft: false
 ---
 
-![The Tower over the Slums](./PE8.png)
+The Tower over the Slums
 
 The rain in Neo-Jakarta didn't wash away the filth; it only made the smell of burnt ozone and rotting data more pungent. In the shadows of the rusted "Mint" Tower, neon signs flickered like dying heartbeats, casting sickly pink light over the scavengers huddling in the gutters.
 
