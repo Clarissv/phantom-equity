@@ -37,8 +37,6 @@ The elevator screeched to a halt at the apex of the Sovereign Mint Tower. As the
 
 In the center of the room, suspended by silver filaments that pulsed with a cold cyan light, was Subject K-Prime.
 
-![Subject K-Prime Boss](./PE6.png)
-
 He wore a tactical variant of Kai's legendary jacket, but his eyes were hidden behind a sleek, corporate visor that displayed a constant stream of Compound Interest calculations.
 
 "Unauthorized asset detected," K-Prime spoke. The voice was a perfect digital reconstruction of Kai’s, but it lacked the rasp of a man who had lived in the slums. "Subject Rix. Status: Rogue Debtor. Cumulative interest has reached terminal levels. Initiating Final Liquidation".

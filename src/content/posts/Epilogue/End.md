@@ -28,6 +28,4 @@ For the first time in his life, Rix didn't feel like a Recalled Asset. He didn't
 
 He stood up, the metal of his joints whirring softly, and walked toward the community center to help Siska process the next batch of interest-free loans. The calls had stopped, the debt was dead, and for the people of Neo-Jakarta, the sun was finally rising on a day without interest.
 
-![The Debt-Free Dawn](./PE4.png)
-
 [End of Phantom Equity]
